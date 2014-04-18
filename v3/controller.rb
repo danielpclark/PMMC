@@ -1,3 +1,4 @@
+$:.unshift "."
 
 PLdirectory = "payloads/"
 
